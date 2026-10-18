@@ -8,11 +8,10 @@ Excel project analyzing road accident data to identify patterns by severity, tim
 ![Data Visualization](https://img.shields.io/badge/Data-Visualization-orange)
 ![Status](https://img.shields.io/badge/Focus-Exploratory%20Data%20Analysis-success)
 
-
 ## 1. Project Purpose
-
-- Analyze road accident data for 2021–2022.
-- Identify trends and patterns to support road safety analysis.
+- Analyze road accident data.
+- Identify patterns by severity, time, road conditions, and location.
+- Present findings through an Excel dashboard.
 
 ## 2. Key Insights and Results
 - **307,973** recorded rows across 23 columns.
@@ -28,35 +27,35 @@ Excel project analyzing road accident data to identify patterns by severity, tim
 - PivotTables and formulas
 - Data cleaning and quality checks
 - Exploratory data analysis (EDA)
-- Data visualization and reporting
+- Data visualization and dashboard design
 
 ## 4. Methodology and Data Cleaning
 - Inspected dataset structure and columns.
 - Checked missing values and data consistency.
 - Summarized records by time, severity, road type, weather, and location.
-- Compared category counts and identified key patterns.
-- Considered duplicate identifiers and data-quality limitations.
+- Compared category counts to identify key patterns.
+- Reviewed duplicate identifiers and data-quality limitations.
 
 ## 5. Dashboard Screenshots or Visuals
-- Add screenshots of Excel charts or the dashboard here.
 
-`![Road Accident Dashboard](images/road-accident-dashboard.png)`
+![Road Accident Dashboard](Images/Dashboard.png)
 
 ## 6. Repository Structure and Instructions
 
 ```text
-Road-Accident-Data-Analysis
-    ├── Data Analysis and Dashboard/
-    |       └── Road Accident And Analysis.xlsx
-    ├── Data Sheet
-    |       └── Road Accident Data.xlsx
-    ├── Images/
-    |       └── road-accident-dashboard.png
-    └── README.md
+Road-Accident-Analysis/
+├── Data Analysis and Dashboard/
+│   └── Road Accident Data Analysis.xlsx
+├── Data Sheet/
+│   └── Road Accident Data.xlsx
+├── Images/
+│   ├── Dashboard.png
+│   └── road-accident-dashboard.png
+└── README.md
 ```
 
-- Download or clone the repository.
+- Clone or download the repository.
 - Open the Excel workbook.
-- Explore the data, analysis, and available visuals.
+- Explore the analysis and dashboard visuals.
 
-**Note:** Figures represent recorded rows, not necessarily unique accidents. Counts alone do not establish accident causes or risk levels.
+**Note:** Recorded rows may not represent unique accidents. Counts alone do not establish accident causes or risk levels.
