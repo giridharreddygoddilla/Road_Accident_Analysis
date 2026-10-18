@@ -9,8 +9,6 @@ Excel project analyzing road accident data to identify patterns by severity, tim
 ![Status](https://img.shields.io/badge/Focus-Exploratory%20Data%20Analysis-success)
 
 
-# 1. Project Title and Purpose
-
 ## 1. Project Purpose
 
 - Analyze road accident data for 2021–2022.
@@ -47,11 +45,14 @@ Excel project analyzing road accident data to identify patterns by severity, tim
 ## 6. Repository Structure and Instructions
 
 ```text
-Road-Accident-Data-Analysis/
-├── Road Accident Data.xlsx
-├── README.md
-└── images/
-    └── road-accident-dashboard.png
+Road-Accident-Data-Analysis
+    ├── Data Analysis and Dashboard/
+    |       └── Road Accident And Analysis.xlsx
+    ├── Data Sheet
+    |       └── Road Accident Data.xlsx
+    ├── Images/
+    |       └── road-accident-dashboard.png
+    └── README.md
 ```
 
 - Download or clone the repository.
